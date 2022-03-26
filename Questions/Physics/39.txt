@@ -1,0 +1,8 @@
+When a polaroid is rotated, the intensity of light does not vary. The incident light may be:
+`unpolarised`
+`completely polarised`
+`partially plane polarised`
+`None of the above`
+a
+`Physics`
+`Wave Optics`

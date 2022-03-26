@@ -1,0 +1,8 @@
+Which of the following statements is not true about Gauss’s law?
+`Gauss’s law is true for any closed surface`
+`The term q on the right side side of Gauss’s law includes the sum of all charges enclosed by the surface`
+`Gauss’s law is not much useful in calculating electrostatic field when the system has some symmetry`
+`Gauss’s law is based on the inverse square dependence on distance contained in the coulomb’s law`
+c
+`Physics`
+`Electric Charges and Fields`

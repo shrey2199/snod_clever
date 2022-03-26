@@ -1,0 +1,8 @@
+The coils in resistance boxes are made from doubled insulated wire to nullify the effect of
+`heating`
+`magnetism`
+`pressure`
+`self induced e.m.f.`
+d
+`Physics`
+`Electromagnetic Induction`

@@ -1,0 +1,8 @@
+According to Faraday’s law of electromagnetic induction -
+`electric field is produced by time varying magnetic flux`
+`magnetic field is produced by time varying electric flux`
+`magnetic field is associated with a moving charge`
+`None of these`
+a
+`Physics`
+`Electromagnetic Induction`

@@ -1,0 +1,8 @@
+A current carrying loop is placed in a uniform magnetic field. The torqe acting on it does not depend upon -
+`area of loop`
+`value of current`
+`magnetic field`
+`None of these`
+d
+`Physics`
+`Moving Charges and Magnetism`

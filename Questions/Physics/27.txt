@@ -1,0 +1,8 @@
+Alternating currents can be produced by a -
+`dynamo`
+`choke coil`
+`transformer`
+`electric motor`
+a
+`Physics`
+`Alternating Current`

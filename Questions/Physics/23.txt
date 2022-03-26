@@ -1,0 +1,8 @@
+The polarity of induced emf is given by-
+`Ampere’s circuital law`
+`Biot-Savart law`
+`Lenz’s law`
+`Fleming’s right hand rule`
+c
+`Physics`
+`Electromagnetic Induction`

@@ -1,0 +1,8 @@
+The transition of electron from n = 4, 5, 6, ……… to n = 3 corresponds to-
+`Lyman series`
+`Balmer series`
+`Paschen series`
+`Brackett series`
+c
+`Physics`
+`Atoms`

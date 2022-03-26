@@ -1,0 +1,8 @@
+The quantity sqrt(u0e0) represents-
+`speed of sound`
+`speed of light in vacuum`
+`speed of EM waves`
+`inverse of speed of light in vacuum`
+d
+`Physics`
+`EM Waves`

@@ -1,0 +1,8 @@
+In electromagnetic waves the phase difference between electric and magnetic field vectors are-
+`zero`
+`pi/4`
+`pi/2`
+`pi`
+a
+`Physics`
+`EM Waves`

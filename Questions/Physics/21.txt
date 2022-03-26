@@ -1,0 +1,8 @@
+In electromagnetic induction, the induced charge is independent of -
+`change of flux`
+`time`
+`resistance of the coil`
+`None of these`
+b
+`Physics`
+`Electromagnetic Induction`

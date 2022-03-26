@@ -1,0 +1,8 @@
+Number of electrons in the valence shell of a semiconductor is:
+`1`
+`2`
+`3`
+`4`
+d
+`Physics`
+`Semiconductors`

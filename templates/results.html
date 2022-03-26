@@ -1,0 +1,45 @@
+{% extends 'layout.html' %}
+
+{% block title %}Results{% endblock %}
+
+{% block content %}
+<h2>Results Page</h2>
+<div class="table-wrapper">
+    <table class="fl-table">
+        <thead>
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Total Marks</th>
+            <th>Physics</th>
+            <th>Chemistry</th>
+            <th>Mathematics</th>
+        </tr>
+        </thead>
+        <tbody>
+        {%for res in results%}
+        <tr>
+            <td><b>{{res[2].split()[0]}}</b></td>
+            <td><b>{{res[2].split()[1].split('.')[0]}}</b></td>
+            <td><b>{{res[6]}}</b></td>
+            {% if res[3].startswith('https://') %}
+                <td><a href='{{res[3]}}'><b>Physics Result</b></a></td>
+            {% else %}
+                <td><b>{{res[3]}}</b></td>
+            {% endif %}
+            {% if res[4].startswith('https://') %}
+                <td><a href='{{res[4]}}'><b>Chemistry Result</b></a></td>
+            {% else %}
+                <td><b>{{res[4]}}</b></td>
+            {% endif %}
+            {% if res[5].startswith('https://') %}
+                <td><a href='{{res[5]}}'><b>Mathematics Result</b></a></td>
+            {% else %}
+                <td><b>{{res[5]}}</b></td>
+            {% endif %}
+        </tr>
+        {%endfor%}
+        <tbody>
+    </table>
+</div>
+{% endblock %}

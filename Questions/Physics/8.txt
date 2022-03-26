@@ -1,0 +1,8 @@
+Two spherical conductors each of capacity C are charged to potential V and -V. These are then connected by means of a fine wire. The loss of energy is -
+`Zero`
+`CV^2`
+`(CV^2)/2`
+`2(CV^2)`
+b
+`Physics`
+`Electrostatic Potential and Capacitance`

@@ -1,0 +1,8 @@
+The work done in bringing a unit positive charge from infinite distance to a point at distance x from a positive charge Q is W. Then the potential at that point is-
+`W/x`
+`WQ`
+`W`
+`WQ/x`
+d
+`Physics`
+`Electrostatic Potential and Capacitance`

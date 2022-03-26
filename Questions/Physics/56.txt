@@ -1,0 +1,8 @@
+In reverse biasing:
+`large amount of current flows`
+`no current flows`
+`potential barrier across junction increases`
+`depletion layer resistance increases`
+c
+`Physics`
+`Semiconductors`

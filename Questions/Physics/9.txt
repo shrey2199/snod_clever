@@ -1,0 +1,8 @@
+Combine three resistors 5 Q, 4.5 Q and 3 Q in such a way that the total resistance of this combination is maximum
+`12.5 Q`
+`13.5 Q`
+`14.5 Q`
+`16.5 Q`
+a
+`Physics`
+`Current Electricity`

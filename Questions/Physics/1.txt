@@ -1,0 +1,8 @@
+A small mass dm is removed at a distance r from a sphere of radius R. Find the electric field at the centre of the sphere (Charge per unit mass is q and r<R)
+`Zero`
+`Kq(dm)/r^2`
+`Kq(dm)/r`
+`Kq(dm)/R^2`
+b
+`Physics`
+`Electric Charges and Fields`

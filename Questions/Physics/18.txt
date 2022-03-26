@@ -1,0 +1,8 @@
+What is the angle of dip at a place where the horizontal component of earth’s magnetic field is equal to the vertical component?
+`0`
+`pi/6`
+`pi/4`
+`pi/2`
+c
+`Physics`
+`Magnetism and Matter`

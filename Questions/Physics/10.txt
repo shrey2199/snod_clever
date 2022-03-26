@@ -1,0 +1,8 @@
+In a Wheatstone bridge if the battery and galvanometer are interchanged then the deflection in galvanometer will
+`change in previous direction`
+`not change`
+`change in opposite direction`
+`none of these`
+b
+`Physics`
+`Current Electricity`

@@ -1,0 +1,8 @@
+The magnetic moment of a current I carrying circular coil of radius r and number of turns N varies as -
+`1/r^2`
+`1/r`
+`r`
+`r^2`
+d
+`Physics`
+`Moving Charges and Magnetism`

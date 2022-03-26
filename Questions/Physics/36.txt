@@ -1,0 +1,8 @@
+If a mirror is approaching you at a speed of 10 ms^1, the speed with which your image approach you is:
+`10 ms^-1`
+`5 ms^-1`
+`20 ms^-1`
+`15 ms^-1`
+c
+`Physics`
+`Ray Optics and Optical Instruments`

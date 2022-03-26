@@ -1,0 +1,8 @@
+A charged particle is moving in a cyclotron, what effect on the radius of path of this charged particle will occur when the frequency of the ratio frequency field is doubled?
+`It will also be doubled`
+`It will be halved`
+`It will be increased by four times`
+`It will remain unchanged`
+d
+`Physics`
+`Moving Charges and Magnetism`

@@ -1,0 +1,8 @@
+In general in an alternating current circuit-
+`the average value of current is zero`
+`the average value of square of the current is zero`
+`average power dissipation is zero`
+`the phase difference between voltage and current is zero`
+a
+`Physics`
+`Alternating Current`

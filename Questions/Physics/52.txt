@@ -1,0 +1,8 @@
+The half life of a radioactive susbtance is 30 days. What is the time taken to disintegrate to 3/4th of its original mass?
+`30 days`
+`15 days`
+`60 days`
+`90 days`
+c
+`Physics`
+`Nuclei`

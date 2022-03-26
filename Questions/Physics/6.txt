@@ -1,0 +1,8 @@
+A test charge is moved from lower potential point to a higher potential point. The potential energy of test charge will
+`remain the same`
+`increase`
+`decrease`
+`become zero`
+c
+`Physics`
+`Electrostatic Potential and Capacitance`

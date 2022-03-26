@@ -1,0 +1,8 @@
+The dielectric constant of a metal is:
+`0`
+`1`
+`infinite`
+`-1`
+c
+`Physics`
+`Electric Charges and Fields`

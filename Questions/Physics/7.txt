@@ -1,0 +1,8 @@
+A parallel plate air capacitor is charged to a potential difference of V volts. After disconnecting the charging battery the distance between the plates of the capacitor is increased using an insulating handle. As a result the potential difference between the plates
+`increases`
+`decreases`
+`does not change`
+`becomes zero`
+a
+`Physics`
+`Electrostatic Potential and Capacitance`
