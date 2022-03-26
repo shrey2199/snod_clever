@@ -219,7 +219,7 @@ def result(m):
     y["score"]["pscore"] = []
 
     # Message
-    bot.edit_message_text(chat_id=m.chat.id, message_id=y[id], text=result_str, reply_markup=keyboard, parse_mode=telegram.ParseMode.MARKDOWN, disable_web_page_preview=True)
+    bot.send_message(chat_id=m.chat.id, text=result_str, reply_markup=keyboard, parse_mode=telegram.ParseMode.MARKDOWN, disable_web_page_preview=True)
 
 ## '''/id command - for getting ID and password to access Web UI'''
 @bot.message_handler(commands=['id'])
