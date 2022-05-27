@@ -1,0 +1,35 @@
+{
+    "name": "S.N.O.D_Revision_Bot",
+    "description": "A Telegram bot for Class 12 Revision",
+    "logo": "",
+    "keywords": [
+      "bot",
+      "telegram",
+      "python"
+    ],
+    "repository": "https://github.com/shrey2199/SNOD_Revision_Bot",
+    "website": "https://github.com/shrey2199/SNOD_Revision_Bot",
+    "success_url": "https://t.me/shrey_contact_bot",
+    "env": {
+      "BOT_TOKEN": {
+        "description": "The telegram bot token that you get from @BotFather.",
+        "required": true
+      },
+      "WEBSITE_URL": {
+        "description": "URL of Server Where BOT is Deployed.",
+        "required": true
+      }
+    },
+    "addons": [
+      {
+        "plan": "heroku-postgresql"
+      }
+    ],
+    "formation": {
+            "web": {
+                "quantity": 1,
+                "size": "free"
+            }
+      },
+      "stack": "container"
+}
