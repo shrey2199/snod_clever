@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/shrey2199/SNOD_Revision_bot">
+  <a href="https://heroku.com/deploy?template=https://github.com/shrey2199/snod_clever">
     <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200" />
   </a>
 </p>
 <p align="center">
-  <a href="https://t.me/s_rawal">
+  <a href="https://t.me/shrey_contact_bot">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="200" />
   </a>
 </p>
