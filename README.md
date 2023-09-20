@@ -11,12 +11,6 @@
 
 # S.N.O.D Revision Bot
 
-A Bot Made By :-
-  1. Shreyansh
-  2. Omkar
-  3. Nischay
-  4. Divyansh
-
 ## Deploy on Heroku
 
 Use The Deploy to Heroku Button given at the TOP !!
