@@ -66,7 +66,7 @@ Run The Docker Container and Define the Variables in One Command
   - Values :- URL of Server where Bot is deployed.
   - Use :- To Use Web UI of Bot Data.
 
--  `DATABASE_URL`
+- `DATABASE_URL`
   - Values :- URL of Postgres Database.
   - Use :- To Store Data in Postgres Database.
 
