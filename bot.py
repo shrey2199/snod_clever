@@ -56,7 +56,7 @@ users = []
 def start(m):
     uptime = get_readable_time((time.time() - botStartTime))
     global start_string
-    start_string = f"Hi ! Welcome to *S.N.O.D Revision Bot*. A Revision Bot for Students of *Class 12*.\n\n*I'm Alive Since : *`{uptime}`\n\nUse /help To See Instructions and Bot Commands !!\n\n`This Bot Has been made with Collective Efforts from :-`*\n\t1. Shreyansh\n\t2. Omkar\n\t3. Nischay\n\t4. Divyansh*"
+    start_string = f"Hi ! Welcome to *S.N.O.D Revision Bot*. A Revision Bot for Students of *Class 12*.\n\n*I'm Alive Since : *`{uptime}`\n\nUse /help To See Instructions and Bot Commands !!\n\n`This Bot Has been made by *Shreyansh Rawal*"
     id = str(m.from_user.id)
     if db_id_not_exist(m):
         startmes = bot.send_message(m.chat.id, text='Pls Reply To This Message With Your Name !')

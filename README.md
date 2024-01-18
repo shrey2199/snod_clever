@@ -11,12 +11,6 @@
 
 # S.N.O.D Revision Bot
 
-A Bot Made By :-
-  1. Shreyansh
-  2. Omkar
-  3. Nischay
-  4. Divyansh
-
 ## Deploy on Heroku
 
 Use The Deploy to Heroku Button given at the TOP !!
@@ -71,6 +65,10 @@ Run The Docker Container and Define the Variables in One Command
 - `WEBSITE_URL`
   - Values :- URL of Server where Bot is deployed.
   - Use :- To Use Web UI of Bot Data.
+
+-  `DATABASE_URL`
+  - Values :- URL of Postgres Database.
+  - Use :- To Store Data in Postgres Database.
 
 ## Bot Commands
 
